@@ -1,6 +1,6 @@
 This is a basic program written in Arduino which makes a robot drive in a straight line, using a MPU6050 IMU for orientation, and a V1 motor/servo shield on an Arduino Uno.
 
-##Building
+# Building
 1. Install the [Arduino IDE](https://www.arduino.cc/en/software)
 2. Install the following libraries:
 	1. [V1 Arduino Motor/Servo Shield Library](https://github.com/adafruit/Adafruit-Motor-Shield-library)
